@@ -69,6 +69,11 @@
 <span>VueUse</span>
 </li>
 
+<li>
+<img width="17" src="https://user-images.githubusercontent.com/98963793/226406614-857f650b-90c4-4d3f-9713-fdb32b697070.png" />
+<span>VueFire</span>
+</li>  
+  
 </ul>
 
 </li>
