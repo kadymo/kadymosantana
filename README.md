@@ -84,17 +84,26 @@
 
 
 <details>
-<summary><h4>⚙ Back-end e banco de dados</h4></summary>
+<summary><h4>⚙ Servidor e banco de dados</h4></summary>
 <ul>
 <li>
 <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <span>Node.js</span>
-</li>
-
+<ul>
 <li>
-<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <span>Express.js</span>
 </li>
+  
+<li>
+<img height="17" src="https://knexjs.org/knex-logo.png" />
+<span>Knex.js</span>
+</li>
+  
+</ul>
+</li>
+
+
 
 <li>
 <img width="20" src="https://user-images.githubusercontent.com/98963793/226395399-cd1f5718-5a53-4ce0-a7bd-23ce4d11f84f.png" />
