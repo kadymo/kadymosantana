@@ -12,12 +12,12 @@
 <ul>
 <li>
 <img width="17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<span>HTML 5</span>
+<span>HTML5</span>
 </li>
 
 <li>
 <img width="17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<span>CSS 3</span>
+<span>CSS3</span>
 <ul>
 
 <li>
@@ -45,7 +45,7 @@
 
 <li>
 <img width="17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<span>Vue.js</span>
+<span>Vue.js e seu ecossistema</span>
 
 <ul>
 
@@ -75,6 +75,11 @@
 </li>  
   
 </ul>
+  
+<li>
+<img height="13" src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png" />
+<span>Nuxt.js 3</span>
+</li>
 
 </li>
 
