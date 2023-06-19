@@ -101,6 +101,11 @@
 </li>
   
 <li>
+<img height="17" src="https://github.com/kadymosantana/kadymosantana/assets/98963793/c3fae819-8700-47b1-b913-fc2a5f2066fa" />
+<span>Prisma</span>
+</li>
+
+<li>
 <img height="17" src="https://knexjs.org/knex-logo.png" />
 <span>Knex.js</span>
 </li>
